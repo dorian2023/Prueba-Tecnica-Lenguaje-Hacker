@@ -48,8 +48,8 @@ body{
 }
 
 
-@media screen and (max-width: 768px){
-    .container {
-        
+@media screen and (min-width: 360px){
+    .header > h1, h2 {
+        font-size: 10px;
     }
 }
